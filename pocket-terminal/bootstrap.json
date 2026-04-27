@@ -3,13 +3,13 @@
   "version": "0.1.0",
   "status": "ready",
   "ready": true,
-  "publicUrl": "https://issn-cute-answered-urgent.trycloudflare.com",
-  "upstreamBaseUrl": "https://issn-cute-answered-urgent.trycloudflare.com",
-  "preferredUpstreamUrl": "https://issn-cute-answered-urgent.trycloudflare.com",
+  "publicUrl": "https://park-reason-jacksonville-favourite.trycloudflare.com",
+  "upstreamBaseUrl": "https://park-reason-jacksonville-favourite.trycloudflare.com",
+  "preferredUpstreamUrl": "https://park-reason-jacksonville-favourite.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "kind": "tunnel",
-      "url": "https://issn-cute-answered-urgent.trycloudflare.com"
+      "url": "https://park-reason-jacksonville-favourite.trycloudflare.com",
+      "kind": "tunnel"
     }
   ],
   "bootstrapReadUrl": "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json",
@@ -17,5 +17,5 @@
     "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json",
     "https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "updatedAt": "2026-04-27T11:05:07.6430592Z"
+  "updatedAt": "2026-04-27T11:06:33.593Z"
 }
