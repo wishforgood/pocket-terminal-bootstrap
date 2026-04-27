@@ -19,17 +19,12 @@
   ],
   "authRequired": true,
   "bootstrapPath": "/downloads/pocket-terminal-bootstrap.json",
-  "bootstrapReadUrl": "https://ghfast.top/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json",
+  "bootstrapReadUrl": "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json",
   "bootstrapReadUrls": [
-    "https://ghfast.top/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json",
-    "https://gh.ddlc.top/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json",
-    "https://gh.llkk.cc/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json",
-    "https://ghproxy.net/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json",
-    "https://gh-proxy.com/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json",
     "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json",
     "https://api.github.com/repos/wishforgood/pocket-terminal-bootstrap/contents/pocket-terminal/bootstrap.json?ref=main",
     "https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-04-27T16:03:56.240Z",
-  "updatedAt": "2026-04-27T16:03:56.240Z"
+  "generatedAt": "2026-04-27T16:15:20.603Z",
+  "updatedAt": "2026-04-27T16:15:20.603Z"
 }
