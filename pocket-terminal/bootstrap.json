@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://align-jackie-lives-content.trycloudflare.com",
-  "upstreamBaseUrl": "https://align-jackie-lives-content.trycloudflare.com",
-  "preferredUpstreamUrl": "https://align-jackie-lives-content.trycloudflare.com",
+  "publicUrl": "https://ver-refresh-established-occur.trycloudflare.com",
+  "upstreamBaseUrl": "https://ver-refresh-established-occur.trycloudflare.com",
+  "preferredUpstreamUrl": "https://ver-refresh-established-occur.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://align-jackie-lives-content.trycloudflare.com",
+      "url": "https://ver-refresh-established-occur.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -30,6 +30,6 @@
     "https://api.github.com/repos/wishforgood/pocket-terminal-bootstrap/contents/pocket-terminal/bootstrap.json?ref=main",
     "https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-04-27T15:46:05.471Z",
-  "updatedAt": "2026-04-27T15:46:05.471Z"
+  "generatedAt": "2026-04-27T15:48:29.593Z",
+  "updatedAt": "2026-04-27T15:48:29.593Z"
 }
