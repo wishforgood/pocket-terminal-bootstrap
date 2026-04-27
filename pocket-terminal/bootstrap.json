@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://contributors-compressed-creature-brand.trycloudflare.com",
-  "upstreamBaseUrl": "https://contributors-compressed-creature-brand.trycloudflare.com",
-  "preferredUpstreamUrl": "https://contributors-compressed-creature-brand.trycloudflare.com",
+  "publicUrl": "https://stewart-tsunami-digital-ensure.trycloudflare.com",
+  "upstreamBaseUrl": "https://stewart-tsunami-digital-ensure.trycloudflare.com",
+  "preferredUpstreamUrl": "https://stewart-tsunami-digital-ensure.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://contributors-compressed-creature-brand.trycloudflare.com",
+      "url": "https://stewart-tsunami-digital-ensure.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-04-27T20:08:12.894Z",
-  "updatedAt": "2026-04-27T20:08:12.894Z"
+  "generatedAt": "2026-04-27T20:08:15.876Z",
+  "updatedAt": "2026-04-27T20:08:15.876Z"
 }
