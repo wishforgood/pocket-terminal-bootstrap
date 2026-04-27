@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://ver-refresh-established-occur.trycloudflare.com",
-  "upstreamBaseUrl": "https://ver-refresh-established-occur.trycloudflare.com",
-  "preferredUpstreamUrl": "https://ver-refresh-established-occur.trycloudflare.com",
+  "publicUrl": "https://intake-magazine-athletes-conduct.trycloudflare.com",
+  "upstreamBaseUrl": "https://intake-magazine-athletes-conduct.trycloudflare.com",
+  "preferredUpstreamUrl": "https://intake-magazine-athletes-conduct.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://ver-refresh-established-occur.trycloudflare.com",
+      "url": "https://intake-magazine-athletes-conduct.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -30,6 +30,6 @@
     "https://api.github.com/repos/wishforgood/pocket-terminal-bootstrap/contents/pocket-terminal/bootstrap.json?ref=main",
     "https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-04-27T15:48:29.593Z",
-  "updatedAt": "2026-04-27T15:48:29.593Z"
+  "generatedAt": "2026-04-27T15:50:15.547Z",
+  "updatedAt": "2026-04-27T15:50:15.547Z"
 }
