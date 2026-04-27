@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://permitted-stolen-signatures-observer.trycloudflare.com",
-  "upstreamBaseUrl": "https://permitted-stolen-signatures-observer.trycloudflare.com",
-  "preferredUpstreamUrl": "https://permitted-stolen-signatures-observer.trycloudflare.com",
+  "publicUrl": "https://biography-celebrity-float-lightweight.trycloudflare.com",
+  "upstreamBaseUrl": "https://biography-celebrity-float-lightweight.trycloudflare.com",
+  "preferredUpstreamUrl": "https://biography-celebrity-float-lightweight.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://permitted-stolen-signatures-observer.trycloudflare.com",
+      "url": "https://biography-celebrity-float-lightweight.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-04-27T19:27:17.855Z",
-  "updatedAt": "2026-04-27T19:27:17.855Z"
+  "generatedAt": "2026-04-27T19:27:20.385Z",
+  "updatedAt": "2026-04-27T19:27:20.385Z"
 }
