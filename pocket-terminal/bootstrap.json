@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://biography-celebrity-float-lightweight.trycloudflare.com",
-  "upstreamBaseUrl": "https://biography-celebrity-float-lightweight.trycloudflare.com",
-  "preferredUpstreamUrl": "https://biography-celebrity-float-lightweight.trycloudflare.com",
+  "publicUrl": "https://fast-shipment-consideration-weapon.trycloudflare.com",
+  "upstreamBaseUrl": "https://fast-shipment-consideration-weapon.trycloudflare.com",
+  "preferredUpstreamUrl": "https://fast-shipment-consideration-weapon.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://biography-celebrity-float-lightweight.trycloudflare.com",
+      "url": "https://fast-shipment-consideration-weapon.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-04-27T19:30:56.769Z",
-  "updatedAt": "2026-04-27T19:30:56.769Z"
+  "generatedAt": "2026-04-27T19:30:59.495Z",
+  "updatedAt": "2026-04-27T19:30:59.495Z"
 }
