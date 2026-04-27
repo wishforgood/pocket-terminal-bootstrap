@@ -1,0 +1,21 @@
+{
+  "app": "pocket-terminal",
+  "version": "0.1.0",
+  "status": "ready",
+  "ready": true,
+  "publicUrl": "https://issn-cute-answered-urgent.trycloudflare.com",
+  "upstreamBaseUrl": "https://issn-cute-answered-urgent.trycloudflare.com",
+  "preferredUpstreamUrl": "https://issn-cute-answered-urgent.trycloudflare.com",
+  "upstreamCandidates": [
+    {
+      "kind": "tunnel",
+      "url": "https://issn-cute-answered-urgent.trycloudflare.com"
+    }
+  ],
+  "bootstrapReadUrl": "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json",
+  "bootstrapReadUrls": [
+    "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json",
+    "https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
+  ],
+  "updatedAt": "2026-04-27T11:05:07.6430592Z"
+}
