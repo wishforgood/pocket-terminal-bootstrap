@@ -3,23 +3,25 @@
   "version": "0.1.0",
   "status": "ready",
   "ready": true,
-  "publicUrl": "https://member-recovery-curves-moss.trycloudflare.com",
-  "upstreamBaseUrl": "https://member-recovery-curves-moss.trycloudflare.com",
-  "preferredUpstreamUrl": "https://member-recovery-curves-moss.trycloudflare.com",
+  "publicUrl": "https://breath-pie-projection-pray.trycloudflare.com",
+  "upstreamBaseUrl": "https://breath-pie-projection-pray.trycloudflare.com",
+  "preferredUpstreamUrl": "https://breath-pie-projection-pray.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://member-recovery-curves-moss.trycloudflare.com",
+      "url": "https://breath-pie-projection-pray.trycloudflare.com",
       "kind": "tunnel"
     }
   ],
-  "bootstrapReadUrl": "https://api.github.com/repos/wishforgood/pocket-terminal-bootstrap/contents/pocket-terminal/bootstrap.json?ref=main",
+  "bootstrapReadUrl": "https://ghfast.top/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json",
   "bootstrapReadUrls": [
-    "https://api.github.com/repos/wishforgood/pocket-terminal-bootstrap/contents/pocket-terminal/bootstrap.json?ref=main",
+    "https://ghfast.top/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json",
+    "https://gh.ddlc.top/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json",
     "https://gh.llkk.cc/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json",
     "https://ghproxy.net/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json",
     "https://gh-proxy.com/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json",
     "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json",
+    "https://api.github.com/repos/wishforgood/pocket-terminal-bootstrap/contents/pocket-terminal/bootstrap.json?ref=main",
     "https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "updatedAt": "2026-04-27T15:20:31.758Z"
+  "updatedAt": "2026-04-27T15:22:46.064Z"
 }
