@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://fast-shipment-consideration-weapon.trycloudflare.com",
-  "upstreamBaseUrl": "https://fast-shipment-consideration-weapon.trycloudflare.com",
-  "preferredUpstreamUrl": "https://fast-shipment-consideration-weapon.trycloudflare.com",
+  "publicUrl": "https://viewer-guitars-worthy-los.trycloudflare.com",
+  "upstreamBaseUrl": "https://viewer-guitars-worthy-los.trycloudflare.com",
+  "preferredUpstreamUrl": "https://viewer-guitars-worthy-los.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://fast-shipment-consideration-weapon.trycloudflare.com",
+      "url": "https://viewer-guitars-worthy-los.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-04-27T19:37:03.573Z",
-  "updatedAt": "2026-04-27T19:37:03.573Z"
+  "generatedAt": "2026-04-27T19:37:05.677Z",
+  "updatedAt": "2026-04-27T19:37:05.677Z"
 }
