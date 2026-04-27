@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://residential-tracked-butterfly-reservations.trycloudflare.com",
-  "upstreamBaseUrl": "https://residential-tracked-butterfly-reservations.trycloudflare.com",
-  "preferredUpstreamUrl": "https://residential-tracked-butterfly-reservations.trycloudflare.com",
+  "publicUrl": "https://pen-sell-involve-affiliates.trycloudflare.com",
+  "upstreamBaseUrl": "https://pen-sell-involve-affiliates.trycloudflare.com",
+  "preferredUpstreamUrl": "https://pen-sell-involve-affiliates.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://residential-tracked-butterfly-reservations.trycloudflare.com",
+      "url": "https://pen-sell-involve-affiliates.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -25,6 +25,6 @@
     "https://api.github.com/repos/wishforgood/pocket-terminal-bootstrap/contents/pocket-terminal/bootstrap.json?ref=main",
     "https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-04-27T18:12:43.079Z",
-  "updatedAt": "2026-04-27T18:12:43.079Z"
+  "generatedAt": "2026-04-27T18:12:56.804Z",
+  "updatedAt": "2026-04-27T18:12:56.804Z"
 }
