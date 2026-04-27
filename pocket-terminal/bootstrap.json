@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://turbo-craft-suggests-observation.trycloudflare.com",
-  "upstreamBaseUrl": "https://turbo-craft-suggests-observation.trycloudflare.com",
-  "preferredUpstreamUrl": "https://turbo-craft-suggests-observation.trycloudflare.com",
+  "publicUrl": "https://residential-tracked-butterfly-reservations.trycloudflare.com",
+  "upstreamBaseUrl": "https://residential-tracked-butterfly-reservations.trycloudflare.com",
+  "preferredUpstreamUrl": "https://residential-tracked-butterfly-reservations.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://turbo-craft-suggests-observation.trycloudflare.com",
+      "url": "https://residential-tracked-butterfly-reservations.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -25,6 +25,6 @@
     "https://api.github.com/repos/wishforgood/pocket-terminal-bootstrap/contents/pocket-terminal/bootstrap.json?ref=main",
     "https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-04-27T16:16:54.047Z",
-  "updatedAt": "2026-04-27T16:16:54.047Z"
+  "generatedAt": "2026-04-27T16:16:57.203Z",
+  "updatedAt": "2026-04-27T16:16:57.203Z"
 }
