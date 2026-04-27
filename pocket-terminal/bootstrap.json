@@ -1,17 +1,24 @@
 {
+  "schemaVersion": 1,
   "app": "pocket-terminal",
+  "appName": "Pocket Terminal",
   "version": "0.1.0",
+  "provider": "github-repo",
   "status": "ready",
   "ready": true,
-  "publicUrl": "https://breath-pie-projection-pray.trycloudflare.com",
-  "upstreamBaseUrl": "https://breath-pie-projection-pray.trycloudflare.com",
-  "preferredUpstreamUrl": "https://breath-pie-projection-pray.trycloudflare.com",
+  "error": "",
+  "publicUrl": "https://align-jackie-lives-content.trycloudflare.com",
+  "upstreamBaseUrl": "https://align-jackie-lives-content.trycloudflare.com",
+  "preferredUpstreamUrl": "https://align-jackie-lives-content.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://breath-pie-projection-pray.trycloudflare.com",
-      "kind": "tunnel"
+      "url": "https://align-jackie-lives-content.trycloudflare.com",
+      "kind": "tunnel",
+      "label": "Cloudflare Quick Tunnel"
     }
   ],
+  "authRequired": true,
+  "bootstrapPath": "/downloads/pocket-terminal-bootstrap.json",
   "bootstrapReadUrl": "https://ghfast.top/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json",
   "bootstrapReadUrls": [
     "https://ghfast.top/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json",
@@ -23,5 +30,6 @@
     "https://api.github.com/repos/wishforgood/pocket-terminal-bootstrap/contents/pocket-terminal/bootstrap.json?ref=main",
     "https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "updatedAt": "2026-04-27T15:22:46.064Z"
+  "generatedAt": "2026-04-27T15:46:05.471Z",
+  "updatedAt": "2026-04-27T15:46:05.471Z"
 }
