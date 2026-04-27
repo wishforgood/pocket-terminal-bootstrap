@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://actors-ascii-julian-learned.trycloudflare.com",
-  "upstreamBaseUrl": "https://actors-ascii-julian-learned.trycloudflare.com",
-  "preferredUpstreamUrl": "https://actors-ascii-julian-learned.trycloudflare.com",
+  "publicUrl": "https://coated-saying-jan-demonstrate.trycloudflare.com",
+  "upstreamBaseUrl": "https://coated-saying-jan-demonstrate.trycloudflare.com",
+  "preferredUpstreamUrl": "https://coated-saying-jan-demonstrate.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://actors-ascii-julian-learned.trycloudflare.com",
+      "url": "https://coated-saying-jan-demonstrate.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://gh.llkk.cc/https://api.github.com/repos/wishforgood/pocket-terminal-bootstrap/contents/pocket-terminal/bootstrap.json?ref=main"
   ],
-  "generatedAt": "2026-04-27T20:17:11.081Z",
-  "updatedAt": "2026-04-27T20:17:11.081Z"
+  "generatedAt": "2026-04-27T20:17:13.981Z",
+  "updatedAt": "2026-04-27T20:17:13.981Z"
 }
