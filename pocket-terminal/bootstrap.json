@@ -3,22 +3,23 @@
   "version": "0.1.0",
   "status": "ready",
   "ready": true,
-  "publicUrl": "https://perfectly-confidence-upon-investigators.trycloudflare.com",
-  "upstreamBaseUrl": "https://perfectly-confidence-upon-investigators.trycloudflare.com",
-  "preferredUpstreamUrl": "https://perfectly-confidence-upon-investigators.trycloudflare.com",
+  "publicUrl": "https://member-recovery-curves-moss.trycloudflare.com",
+  "upstreamBaseUrl": "https://member-recovery-curves-moss.trycloudflare.com",
+  "preferredUpstreamUrl": "https://member-recovery-curves-moss.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://perfectly-confidence-upon-investigators.trycloudflare.com",
+      "url": "https://member-recovery-curves-moss.trycloudflare.com",
       "kind": "tunnel"
     }
   ],
-  "bootstrapReadUrl": "https://gh.llkk.cc/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json",
+  "bootstrapReadUrl": "https://api.github.com/repos/wishforgood/pocket-terminal-bootstrap/contents/pocket-terminal/bootstrap.json?ref=main",
   "bootstrapReadUrls": [
+    "https://api.github.com/repos/wishforgood/pocket-terminal-bootstrap/contents/pocket-terminal/bootstrap.json?ref=main",
     "https://gh.llkk.cc/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json",
     "https://ghproxy.net/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json",
     "https://gh-proxy.com/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json",
     "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json",
     "https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "updatedAt": "2026-04-27T15:17:26.547Z"
+  "updatedAt": "2026-04-27T15:20:31.758Z"
 }
