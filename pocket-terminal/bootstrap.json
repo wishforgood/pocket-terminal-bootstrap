@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://viewer-guitars-worthy-los.trycloudflare.com",
-  "upstreamBaseUrl": "https://viewer-guitars-worthy-los.trycloudflare.com",
-  "preferredUpstreamUrl": "https://viewer-guitars-worthy-los.trycloudflare.com",
+  "publicUrl": "https://johnson-wood-beatles-overview.trycloudflare.com",
+  "upstreamBaseUrl": "https://johnson-wood-beatles-overview.trycloudflare.com",
+  "preferredUpstreamUrl": "https://johnson-wood-beatles-overview.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://viewer-guitars-worthy-los.trycloudflare.com",
+      "url": "https://johnson-wood-beatles-overview.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-04-27T19:40:42.639Z",
-  "updatedAt": "2026-04-27T19:40:42.639Z"
+  "generatedAt": "2026-04-27T19:40:45.909Z",
+  "updatedAt": "2026-04-27T19:40:45.909Z"
 }
