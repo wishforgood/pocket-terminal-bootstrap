@@ -19,10 +19,10 @@
   ],
   "authRequired": true,
   "bootstrapPath": "/downloads/pocket-terminal-bootstrap.json",
-  "bootstrapReadUrl": "https://gh.llkk.cc/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json",
+  "bootstrapReadUrl": "https://gh.llkk.cc/https://api.github.com/repos/wishforgood/pocket-terminal-bootstrap/contents/pocket-terminal/bootstrap.json?ref=main",
   "bootstrapReadUrls": [
-    "https://gh.llkk.cc/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
+    "https://gh.llkk.cc/https://api.github.com/repos/wishforgood/pocket-terminal-bootstrap/contents/pocket-terminal/bootstrap.json?ref=main"
   ],
-  "generatedAt": "2026-04-27T20:12:13.012Z",
-  "updatedAt": "2026-04-27T20:12:13.012Z"
+  "generatedAt": "2026-04-27T20:17:11.081Z",
+  "updatedAt": "2026-04-27T20:17:11.081Z"
 }
