@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://gods-uploaded-prices-posted.trycloudflare.com",
-  "upstreamBaseUrl": "https://gods-uploaded-prices-posted.trycloudflare.com",
-  "preferredUpstreamUrl": "https://gods-uploaded-prices-posted.trycloudflare.com",
+  "publicUrl": "https://shares-grass-wishes-focuses.trycloudflare.com",
+  "upstreamBaseUrl": "https://shares-grass-wishes-focuses.trycloudflare.com",
+  "preferredUpstreamUrl": "https://shares-grass-wishes-focuses.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://gods-uploaded-prices-posted.trycloudflare.com",
+      "url": "https://shares-grass-wishes-focuses.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://ghproxy.vip/https://api.github.com/repos/wishforgood/pocket-terminal-bootstrap/contents/pocket-terminal/bootstrap.json?ref=main"
   ],
-  "generatedAt": "2026-04-27T20:33:57.716Z",
-  "updatedAt": "2026-04-27T20:33:57.716Z"
+  "generatedAt": "2026-04-27T20:34:00.638Z",
+  "updatedAt": "2026-04-27T20:34:00.638Z"
 }
