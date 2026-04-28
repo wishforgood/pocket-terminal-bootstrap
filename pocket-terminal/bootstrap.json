@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://shares-grass-wishes-focuses.trycloudflare.com",
-  "upstreamBaseUrl": "https://shares-grass-wishes-focuses.trycloudflare.com",
-  "preferredUpstreamUrl": "https://shares-grass-wishes-focuses.trycloudflare.com",
+  "publicUrl": "https://fix-nobody-salvador-chain.trycloudflare.com",
+  "upstreamBaseUrl": "https://fix-nobody-salvador-chain.trycloudflare.com",
+  "preferredUpstreamUrl": "https://fix-nobody-salvador-chain.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://shares-grass-wishes-focuses.trycloudflare.com",
+      "url": "https://fix-nobody-salvador-chain.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://ghproxy.vip/https://api.github.com/repos/wishforgood/pocket-terminal-bootstrap/contents/pocket-terminal/bootstrap.json?ref=main"
   ],
-  "generatedAt": "2026-04-28T06:27:10.445Z",
-  "updatedAt": "2026-04-28T06:27:10.445Z"
+  "generatedAt": "2026-04-28T06:27:15.137Z",
+  "updatedAt": "2026-04-28T06:27:15.137Z"
 }
