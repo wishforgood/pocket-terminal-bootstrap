@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://adams-strategy-mem-avon.trycloudflare.com",
-  "upstreamBaseUrl": "https://adams-strategy-mem-avon.trycloudflare.com",
-  "preferredUpstreamUrl": "https://adams-strategy-mem-avon.trycloudflare.com",
+  "publicUrl": "https://expected-usual-matches-extensive.trycloudflare.com",
+  "upstreamBaseUrl": "https://expected-usual-matches-extensive.trycloudflare.com",
+  "preferredUpstreamUrl": "https://expected-usual-matches-extensive.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://adams-strategy-mem-avon.trycloudflare.com",
+      "url": "https://expected-usual-matches-extensive.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-04-28T09:35:57.109Z",
-  "updatedAt": "2026-04-28T09:35:57.109Z"
+  "generatedAt": "2026-04-28T09:36:00.039Z",
+  "updatedAt": "2026-04-28T09:36:00.039Z"
 }
