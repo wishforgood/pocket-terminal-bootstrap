@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://maple-exhibition-oval-repeated.trycloudflare.com",
-  "upstreamBaseUrl": "https://maple-exhibition-oval-repeated.trycloudflare.com",
-  "preferredUpstreamUrl": "https://maple-exhibition-oval-repeated.trycloudflare.com",
+  "publicUrl": "https://adams-strategy-mem-avon.trycloudflare.com",
+  "upstreamBaseUrl": "https://adams-strategy-mem-avon.trycloudflare.com",
+  "preferredUpstreamUrl": "https://adams-strategy-mem-avon.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://maple-exhibition-oval-repeated.trycloudflare.com",
+      "url": "https://adams-strategy-mem-avon.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://ghproxy.vip/https://api.github.com/repos/wishforgood/pocket-terminal-bootstrap/contents/pocket-terminal/bootstrap.json?ref=main"
   ],
-  "generatedAt": "2026-04-28T06:47:16.058Z",
-  "updatedAt": "2026-04-28T06:47:16.058Z"
+  "generatedAt": "2026-04-28T09:21:14.086Z",
+  "updatedAt": "2026-04-28T09:21:14.086Z"
 }
