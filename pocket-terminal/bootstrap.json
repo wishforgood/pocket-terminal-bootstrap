@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://rail-mic-suited-volvo.trycloudflare.com",
-  "upstreamBaseUrl": "https://rail-mic-suited-volvo.trycloudflare.com",
-  "preferredUpstreamUrl": "https://rail-mic-suited-volvo.trycloudflare.com",
+  "publicUrl": "https://ons-somerset-tunes-heather.trycloudflare.com",
+  "upstreamBaseUrl": "https://ons-somerset-tunes-heather.trycloudflare.com",
+  "preferredUpstreamUrl": "https://ons-somerset-tunes-heather.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://rail-mic-suited-volvo.trycloudflare.com",
+      "url": "https://ons-somerset-tunes-heather.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-05-06T14:41:44.653Z",
-  "updatedAt": "2026-05-06T14:41:44.653Z"
+  "generatedAt": "2026-05-06T14:42:00.032Z",
+  "updatedAt": "2026-05-06T14:42:00.032Z"
 }
