@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://pounds-snake-hotel-leisure.trycloudflare.com",
-  "upstreamBaseUrl": "https://pounds-snake-hotel-leisure.trycloudflare.com",
-  "preferredUpstreamUrl": "https://pounds-snake-hotel-leisure.trycloudflare.com",
+  "publicUrl": "https://passed-date-sections-computed.trycloudflare.com",
+  "upstreamBaseUrl": "https://passed-date-sections-computed.trycloudflare.com",
+  "preferredUpstreamUrl": "https://passed-date-sections-computed.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://pounds-snake-hotel-leisure.trycloudflare.com",
+      "url": "https://passed-date-sections-computed.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-05-06T14:42:56.820Z",
-  "updatedAt": "2026-05-06T14:42:56.820Z"
+  "generatedAt": "2026-05-06T14:43:14.873Z",
+  "updatedAt": "2026-05-06T14:43:14.873Z"
 }
