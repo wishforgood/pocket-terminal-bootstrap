@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://stephanie-funky-mirror-regarded.trycloudflare.com",
-  "upstreamBaseUrl": "https://stephanie-funky-mirror-regarded.trycloudflare.com",
-  "preferredUpstreamUrl": "https://stephanie-funky-mirror-regarded.trycloudflare.com",
+  "publicUrl": "https://tips-generated-closing-synthesis.trycloudflare.com",
+  "upstreamBaseUrl": "https://tips-generated-closing-synthesis.trycloudflare.com",
+  "preferredUpstreamUrl": "https://tips-generated-closing-synthesis.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://stephanie-funky-mirror-regarded.trycloudflare.com",
+      "url": "https://tips-generated-closing-synthesis.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-05-06T14:46:56.490Z",
-  "updatedAt": "2026-05-06T14:46:56.490Z"
+  "generatedAt": "2026-05-06T14:47:10.718Z",
+  "updatedAt": "2026-05-06T14:47:10.718Z"
 }
