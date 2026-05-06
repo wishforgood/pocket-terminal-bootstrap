@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://aged-bring-bulk-adopted.trycloudflare.com",
-  "upstreamBaseUrl": "https://aged-bring-bulk-adopted.trycloudflare.com",
-  "preferredUpstreamUrl": "https://aged-bring-bulk-adopted.trycloudflare.com",
+  "publicUrl": "https://probability-trainers-publishing-selected.trycloudflare.com",
+  "upstreamBaseUrl": "https://probability-trainers-publishing-selected.trycloudflare.com",
+  "preferredUpstreamUrl": "https://probability-trainers-publishing-selected.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://aged-bring-bulk-adopted.trycloudflare.com",
+      "url": "https://probability-trainers-publishing-selected.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-05-06T14:47:27.709Z",
-  "updatedAt": "2026-05-06T14:47:27.709Z"
+  "generatedAt": "2026-05-06T14:47:45.386Z",
+  "updatedAt": "2026-05-06T14:47:45.386Z"
 }
