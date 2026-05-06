@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://depth-whenever-hydrogen-grammar.trycloudflare.com",
-  "upstreamBaseUrl": "https://depth-whenever-hydrogen-grammar.trycloudflare.com",
-  "preferredUpstreamUrl": "https://depth-whenever-hydrogen-grammar.trycloudflare.com",
+  "publicUrl": "https://hobbies-procedure-pockets-removable.trycloudflare.com",
+  "upstreamBaseUrl": "https://hobbies-procedure-pockets-removable.trycloudflare.com",
+  "preferredUpstreamUrl": "https://hobbies-procedure-pockets-removable.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://depth-whenever-hydrogen-grammar.trycloudflare.com",
+      "url": "https://hobbies-procedure-pockets-removable.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-05-06T14:46:14.218Z",
-  "updatedAt": "2026-05-06T14:46:14.218Z"
+  "generatedAt": "2026-05-06T14:46:28.569Z",
+  "updatedAt": "2026-05-06T14:46:28.569Z"
 }
