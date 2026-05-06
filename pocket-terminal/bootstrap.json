@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://ons-somerset-tunes-heather.trycloudflare.com",
-  "upstreamBaseUrl": "https://ons-somerset-tunes-heather.trycloudflare.com",
-  "preferredUpstreamUrl": "https://ons-somerset-tunes-heather.trycloudflare.com",
+  "publicUrl": "https://honor-flat-easily-lap.trycloudflare.com",
+  "upstreamBaseUrl": "https://honor-flat-easily-lap.trycloudflare.com",
+  "preferredUpstreamUrl": "https://honor-flat-easily-lap.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://ons-somerset-tunes-heather.trycloudflare.com",
+      "url": "https://honor-flat-easily-lap.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-05-06T14:42:00.032Z",
-  "updatedAt": "2026-05-06T14:42:00.032Z"
+  "generatedAt": "2026-05-06T14:42:14.401Z",
+  "updatedAt": "2026-05-06T14:42:14.401Z"
 }
