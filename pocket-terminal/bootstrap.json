@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://both-engines-flight-radius.trycloudflare.com",
-  "upstreamBaseUrl": "https://both-engines-flight-radius.trycloudflare.com",
-  "preferredUpstreamUrl": "https://both-engines-flight-radius.trycloudflare.com",
+  "publicUrl": "https://appreciation-review-food-front.trycloudflare.com",
+  "upstreamBaseUrl": "https://appreciation-review-food-front.trycloudflare.com",
+  "preferredUpstreamUrl": "https://appreciation-review-food-front.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://both-engines-flight-radius.trycloudflare.com",
+      "url": "https://appreciation-review-food-front.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-05-06T10:16:44.322Z",
-  "updatedAt": "2026-05-06T10:16:44.322Z"
+  "generatedAt": "2026-05-06T10:39:48.148Z",
+  "updatedAt": "2026-05-06T10:39:48.148Z"
 }
