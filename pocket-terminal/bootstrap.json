@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://trains-readers-shark-solar.trycloudflare.com",
-  "upstreamBaseUrl": "https://trains-readers-shark-solar.trycloudflare.com",
-  "preferredUpstreamUrl": "https://trains-readers-shark-solar.trycloudflare.com",
+  "publicUrl": "https://print-boom-renew-belle.trycloudflare.com",
+  "upstreamBaseUrl": "https://print-boom-renew-belle.trycloudflare.com",
+  "preferredUpstreamUrl": "https://print-boom-renew-belle.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://trains-readers-shark-solar.trycloudflare.com",
+      "url": "https://print-boom-renew-belle.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-05-06T07:48:33.760Z",
-  "updatedAt": "2026-05-06T07:48:33.760Z"
+  "generatedAt": "2026-05-06T07:48:40.171Z",
+  "updatedAt": "2026-05-06T07:48:40.171Z"
 }
