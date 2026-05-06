@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://probability-trainers-publishing-selected.trycloudflare.com",
-  "upstreamBaseUrl": "https://probability-trainers-publishing-selected.trycloudflare.com",
-  "preferredUpstreamUrl": "https://probability-trainers-publishing-selected.trycloudflare.com",
+  "publicUrl": "https://highland-offered-configured-theory.trycloudflare.com",
+  "upstreamBaseUrl": "https://highland-offered-configured-theory.trycloudflare.com",
+  "preferredUpstreamUrl": "https://highland-offered-configured-theory.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://probability-trainers-publishing-selected.trycloudflare.com",
+      "url": "https://highland-offered-configured-theory.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-05-06T14:47:45.386Z",
-  "updatedAt": "2026-05-06T14:47:45.386Z"
+  "generatedAt": "2026-05-06T14:47:56.830Z",
+  "updatedAt": "2026-05-06T14:47:56.830Z"
 }
