@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://wear-shoe-connector-reading.trycloudflare.com",
-  "upstreamBaseUrl": "https://wear-shoe-connector-reading.trycloudflare.com",
-  "preferredUpstreamUrl": "https://wear-shoe-connector-reading.trycloudflare.com",
+  "publicUrl": "https://depth-whenever-hydrogen-grammar.trycloudflare.com",
+  "upstreamBaseUrl": "https://depth-whenever-hydrogen-grammar.trycloudflare.com",
+  "preferredUpstreamUrl": "https://depth-whenever-hydrogen-grammar.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://wear-shoe-connector-reading.trycloudflare.com",
+      "url": "https://depth-whenever-hydrogen-grammar.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-05-06T14:45:13.204Z",
-  "updatedAt": "2026-05-06T14:45:13.204Z"
+  "generatedAt": "2026-05-06T14:46:14.218Z",
+  "updatedAt": "2026-05-06T14:46:14.218Z"
 }
