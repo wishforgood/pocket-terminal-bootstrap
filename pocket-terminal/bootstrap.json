@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://highland-offered-configured-theory.trycloudflare.com",
-  "upstreamBaseUrl": "https://highland-offered-configured-theory.trycloudflare.com",
-  "preferredUpstreamUrl": "https://highland-offered-configured-theory.trycloudflare.com",
+  "publicUrl": "https://vinyl-costumes-contractors-joyce.trycloudflare.com",
+  "upstreamBaseUrl": "https://vinyl-costumes-contractors-joyce.trycloudflare.com",
+  "preferredUpstreamUrl": "https://vinyl-costumes-contractors-joyce.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://highland-offered-configured-theory.trycloudflare.com",
+      "url": "https://vinyl-costumes-contractors-joyce.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-05-06T14:47:56.830Z",
-  "updatedAt": "2026-05-06T14:47:56.830Z"
+  "generatedAt": "2026-05-07T21:19:54.109Z",
+  "updatedAt": "2026-05-07T21:19:54.109Z"
 }
