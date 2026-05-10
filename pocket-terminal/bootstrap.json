@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://div-yeah-declined-cornwall.trycloudflare.com",
-  "upstreamBaseUrl": "https://div-yeah-declined-cornwall.trycloudflare.com",
-  "preferredUpstreamUrl": "https://div-yeah-declined-cornwall.trycloudflare.com",
+  "publicUrl": "https://charms-reunion-coleman-determine.trycloudflare.com",
+  "upstreamBaseUrl": "https://charms-reunion-coleman-determine.trycloudflare.com",
+  "preferredUpstreamUrl": "https://charms-reunion-coleman-determine.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://div-yeah-declined-cornwall.trycloudflare.com",
+      "url": "https://charms-reunion-coleman-determine.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-05-10T16:25:08.127Z",
-  "updatedAt": "2026-05-10T16:25:08.127Z"
+  "generatedAt": "2026-05-10T16:26:05.224Z",
+  "updatedAt": "2026-05-10T16:26:05.224Z"
 }
