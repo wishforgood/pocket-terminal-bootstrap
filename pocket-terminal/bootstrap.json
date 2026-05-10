@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://bit-supervision-packed-sewing.trycloudflare.com",
-  "upstreamBaseUrl": "https://bit-supervision-packed-sewing.trycloudflare.com",
-  "preferredUpstreamUrl": "https://bit-supervision-packed-sewing.trycloudflare.com",
+  "publicUrl": "https://ranked-sources-fully-range.trycloudflare.com",
+  "upstreamBaseUrl": "https://ranked-sources-fully-range.trycloudflare.com",
+  "preferredUpstreamUrl": "https://ranked-sources-fully-range.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://bit-supervision-packed-sewing.trycloudflare.com",
+      "url": "https://ranked-sources-fully-range.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-05-10T00:32:21.272Z",
-  "updatedAt": "2026-05-10T00:32:21.272Z"
+  "generatedAt": "2026-05-10T03:51:34.197Z",
+  "updatedAt": "2026-05-10T03:51:34.197Z"
 }
