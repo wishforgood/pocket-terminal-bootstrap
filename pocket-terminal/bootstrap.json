@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://vinyl-costumes-contractors-joyce.trycloudflare.com",
-  "upstreamBaseUrl": "https://vinyl-costumes-contractors-joyce.trycloudflare.com",
-  "preferredUpstreamUrl": "https://vinyl-costumes-contractors-joyce.trycloudflare.com",
+  "publicUrl": "https://bit-supervision-packed-sewing.trycloudflare.com",
+  "upstreamBaseUrl": "https://bit-supervision-packed-sewing.trycloudflare.com",
+  "preferredUpstreamUrl": "https://bit-supervision-packed-sewing.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://vinyl-costumes-contractors-joyce.trycloudflare.com",
+      "url": "https://bit-supervision-packed-sewing.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-05-07T21:19:54.109Z",
-  "updatedAt": "2026-05-07T21:19:54.109Z"
+  "generatedAt": "2026-05-10T00:32:21.272Z",
+  "updatedAt": "2026-05-10T00:32:21.272Z"
 }
