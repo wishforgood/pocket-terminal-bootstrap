@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://inflation-competing-avon-shoe.trycloudflare.com",
-  "upstreamBaseUrl": "https://inflation-competing-avon-shoe.trycloudflare.com",
-  "preferredUpstreamUrl": "https://inflation-competing-avon-shoe.trycloudflare.com",
+  "publicUrl": "https://exposure-journalism-singh-hong.trycloudflare.com",
+  "upstreamBaseUrl": "https://exposure-journalism-singh-hong.trycloudflare.com",
+  "preferredUpstreamUrl": "https://exposure-journalism-singh-hong.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://inflation-competing-avon-shoe.trycloudflare.com",
+      "url": "https://exposure-journalism-singh-hong.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-06-13T04:34:12.871Z",
-  "updatedAt": "2026-06-13T04:34:12.871Z"
+  "generatedAt": "2026-06-19T04:19:38.715Z",
+  "updatedAt": "2026-06-19T04:19:38.715Z"
 }
