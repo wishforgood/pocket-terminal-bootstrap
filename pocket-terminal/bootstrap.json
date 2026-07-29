@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://armstrong-operational-score-bracelets.trycloudflare.com",
-  "upstreamBaseUrl": "https://armstrong-operational-score-bracelets.trycloudflare.com",
-  "preferredUpstreamUrl": "https://armstrong-operational-score-bracelets.trycloudflare.com",
+  "publicUrl": "https://lender-ruled-abroad-custom.trycloudflare.com",
+  "upstreamBaseUrl": "https://lender-ruled-abroad-custom.trycloudflare.com",
+  "preferredUpstreamUrl": "https://lender-ruled-abroad-custom.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://armstrong-operational-score-bracelets.trycloudflare.com",
+      "url": "https://lender-ruled-abroad-custom.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-07-29T18:56:47.714Z",
-  "updatedAt": "2026-07-29T18:56:47.714Z"
+  "generatedAt": "2026-07-29T18:56:51.549Z",
+  "updatedAt": "2026-07-29T18:56:51.549Z"
 }
