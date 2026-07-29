@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://prisoner-draws-zoning-lan.trycloudflare.com",
-  "upstreamBaseUrl": "https://prisoner-draws-zoning-lan.trycloudflare.com",
-  "preferredUpstreamUrl": "https://prisoner-draws-zoning-lan.trycloudflare.com",
+  "publicUrl": "https://behalf-infrastructure-eight-stick.trycloudflare.com",
+  "upstreamBaseUrl": "https://behalf-infrastructure-eight-stick.trycloudflare.com",
+  "preferredUpstreamUrl": "https://behalf-infrastructure-eight-stick.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://prisoner-draws-zoning-lan.trycloudflare.com",
+      "url": "https://behalf-infrastructure-eight-stick.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-07-29T19:05:11.916Z",
-  "updatedAt": "2026-07-29T19:05:11.916Z"
+  "generatedAt": "2026-07-29T19:06:12.555Z",
+  "updatedAt": "2026-07-29T19:06:12.555Z"
 }
