@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://exposure-journalism-singh-hong.trycloudflare.com",
-  "upstreamBaseUrl": "https://exposure-journalism-singh-hong.trycloudflare.com",
-  "preferredUpstreamUrl": "https://exposure-journalism-singh-hong.trycloudflare.com",
+  "publicUrl": "https://armstrong-operational-score-bracelets.trycloudflare.com",
+  "upstreamBaseUrl": "https://armstrong-operational-score-bracelets.trycloudflare.com",
+  "preferredUpstreamUrl": "https://armstrong-operational-score-bracelets.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://exposure-journalism-singh-hong.trycloudflare.com",
+      "url": "https://armstrong-operational-score-bracelets.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-06-19T04:19:38.715Z",
-  "updatedAt": "2026-06-19T04:19:38.715Z"
+  "generatedAt": "2026-07-29T18:56:47.714Z",
+  "updatedAt": "2026-07-29T18:56:47.714Z"
 }
