@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://behalf-infrastructure-eight-stick.trycloudflare.com",
-  "upstreamBaseUrl": "https://behalf-infrastructure-eight-stick.trycloudflare.com",
-  "preferredUpstreamUrl": "https://behalf-infrastructure-eight-stick.trycloudflare.com",
+  "publicUrl": "https://injured-moses-allowance-tba.trycloudflare.com",
+  "upstreamBaseUrl": "https://injured-moses-allowance-tba.trycloudflare.com",
+  "preferredUpstreamUrl": "https://injured-moses-allowance-tba.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://behalf-infrastructure-eight-stick.trycloudflare.com",
+      "url": "https://injured-moses-allowance-tba.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-07-29T20:11:04.152Z",
-  "updatedAt": "2026-07-29T20:11:04.152Z"
+  "generatedAt": "2026-07-29T20:11:07.290Z",
+  "updatedAt": "2026-07-29T20:11:07.290Z"
 }
