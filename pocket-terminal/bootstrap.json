@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://permits-strange-precipitation-sierra.trycloudflare.com",
-  "upstreamBaseUrl": "https://permits-strange-precipitation-sierra.trycloudflare.com",
-  "preferredUpstreamUrl": "https://permits-strange-precipitation-sierra.trycloudflare.com",
+  "publicUrl": "https://prisoner-draws-zoning-lan.trycloudflare.com",
+  "upstreamBaseUrl": "https://prisoner-draws-zoning-lan.trycloudflare.com",
+  "preferredUpstreamUrl": "https://prisoner-draws-zoning-lan.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://permits-strange-precipitation-sierra.trycloudflare.com",
+      "url": "https://prisoner-draws-zoning-lan.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-07-29T19:05:07.272Z",
-  "updatedAt": "2026-07-29T19:05:07.272Z"
+  "generatedAt": "2026-07-29T19:05:11.916Z",
+  "updatedAt": "2026-07-29T19:05:11.916Z"
 }
