@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://database-bye-kinda-courses.trycloudflare.com",
-  "upstreamBaseUrl": "https://database-bye-kinda-courses.trycloudflare.com",
-  "preferredUpstreamUrl": "https://database-bye-kinda-courses.trycloudflare.com",
+  "publicUrl": "https://sure-federation-documentation-acceptance.trycloudflare.com",
+  "upstreamBaseUrl": "https://sure-federation-documentation-acceptance.trycloudflare.com",
+  "preferredUpstreamUrl": "https://sure-federation-documentation-acceptance.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://database-bye-kinda-courses.trycloudflare.com",
+      "url": "https://sure-federation-documentation-acceptance.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-07-29T20:54:44.393Z",
-  "updatedAt": "2026-07-29T20:54:44.393Z"
+  "generatedAt": "2026-07-29T20:54:47.920Z",
+  "updatedAt": "2026-07-29T20:54:47.920Z"
 }
