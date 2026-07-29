@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://sure-federation-documentation-acceptance.trycloudflare.com",
-  "upstreamBaseUrl": "https://sure-federation-documentation-acceptance.trycloudflare.com",
-  "preferredUpstreamUrl": "https://sure-federation-documentation-acceptance.trycloudflare.com",
+  "publicUrl": "https://amy-filters-ridge-remainder.trycloudflare.com",
+  "upstreamBaseUrl": "https://amy-filters-ridge-remainder.trycloudflare.com",
+  "preferredUpstreamUrl": "https://amy-filters-ridge-remainder.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://sure-federation-documentation-acceptance.trycloudflare.com",
+      "url": "https://amy-filters-ridge-remainder.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-07-29T20:56:02.886Z",
-  "updatedAt": "2026-07-29T20:56:02.886Z"
+  "generatedAt": "2026-07-29T20:56:06.559Z",
+  "updatedAt": "2026-07-29T20:56:06.559Z"
 }
