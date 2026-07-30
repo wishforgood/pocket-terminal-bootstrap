@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://remark-packard-celebrity-sectors.trycloudflare.com",
-  "upstreamBaseUrl": "https://remark-packard-celebrity-sectors.trycloudflare.com",
-  "preferredUpstreamUrl": "https://remark-packard-celebrity-sectors.trycloudflare.com",
+  "publicUrl": "https://toolbar-suite-suggest-tabs.trycloudflare.com",
+  "upstreamBaseUrl": "https://toolbar-suite-suggest-tabs.trycloudflare.com",
+  "preferredUpstreamUrl": "https://toolbar-suite-suggest-tabs.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://remark-packard-celebrity-sectors.trycloudflare.com",
+      "url": "https://toolbar-suite-suggest-tabs.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-07-30T09:42:44.478Z",
-  "updatedAt": "2026-07-30T09:42:44.478Z"
+  "generatedAt": "2026-07-30T10:00:35.739Z",
+  "updatedAt": "2026-07-30T10:00:35.739Z"
 }
