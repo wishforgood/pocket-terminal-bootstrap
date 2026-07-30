@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://lawn-subsidiary-parker-prospect.trycloudflare.com",
-  "upstreamBaseUrl": "https://lawn-subsidiary-parker-prospect.trycloudflare.com",
-  "preferredUpstreamUrl": "https://lawn-subsidiary-parker-prospect.trycloudflare.com",
+  "publicUrl": "https://pipes-sas-indicator-arkansas.trycloudflare.com",
+  "upstreamBaseUrl": "https://pipes-sas-indicator-arkansas.trycloudflare.com",
+  "preferredUpstreamUrl": "https://pipes-sas-indicator-arkansas.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://lawn-subsidiary-parker-prospect.trycloudflare.com",
+      "url": "https://pipes-sas-indicator-arkansas.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-07-30T09:30:07.448Z",
-  "updatedAt": "2026-07-30T09:30:07.448Z"
+  "generatedAt": "2026-07-30T09:30:12.955Z",
+  "updatedAt": "2026-07-30T09:30:12.955Z"
 }
