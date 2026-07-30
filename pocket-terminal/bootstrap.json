@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://justice-ash-powers-gossip.trycloudflare.com",
-  "upstreamBaseUrl": "https://justice-ash-powers-gossip.trycloudflare.com",
-  "preferredUpstreamUrl": "https://justice-ash-powers-gossip.trycloudflare.com",
+  "publicUrl": "https://voluntary-inputs-eugene-ground.trycloudflare.com",
+  "upstreamBaseUrl": "https://voluntary-inputs-eugene-ground.trycloudflare.com",
+  "preferredUpstreamUrl": "https://voluntary-inputs-eugene-ground.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://justice-ash-powers-gossip.trycloudflare.com",
+      "url": "https://voluntary-inputs-eugene-ground.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/refs/heads/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-07-30T10:33:55.937Z",
-  "updatedAt": "2026-07-30T10:33:55.937Z"
+  "generatedAt": "2026-07-30T10:35:56.470Z",
+  "updatedAt": "2026-07-30T10:35:56.470Z"
 }
