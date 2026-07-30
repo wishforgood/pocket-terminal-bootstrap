@@ -7,22 +7,22 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://toolbar-suite-suggest-tabs.trycloudflare.com",
-  "upstreamBaseUrl": "https://toolbar-suite-suggest-tabs.trycloudflare.com",
-  "preferredUpstreamUrl": "https://toolbar-suite-suggest-tabs.trycloudflare.com",
+  "publicUrl": "https://douglas-learned-launched-antonio.trycloudflare.com",
+  "upstreamBaseUrl": "https://douglas-learned-launched-antonio.trycloudflare.com",
+  "preferredUpstreamUrl": "https://douglas-learned-launched-antonio.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://toolbar-suite-suggest-tabs.trycloudflare.com",
+      "url": "https://douglas-learned-launched-antonio.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
   ],
   "authRequired": true,
   "bootstrapPath": "/downloads/pocket-terminal-bootstrap.json",
-  "bootstrapReadUrl": "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json",
+  "bootstrapReadUrl": "https://ghfast.top/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json",
   "bootstrapReadUrls": [
-    "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
+    "https://ghfast.top/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-07-30T10:00:35.739Z",
-  "updatedAt": "2026-07-30T10:00:35.739Z"
+  "generatedAt": "2026-07-30T10:06:37.107Z",
+  "updatedAt": "2026-07-30T10:06:37.107Z"
 }
