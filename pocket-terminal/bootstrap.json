@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://calculate-mechanics-pickup-scratch.trycloudflare.com",
-  "upstreamBaseUrl": "https://calculate-mechanics-pickup-scratch.trycloudflare.com",
-  "preferredUpstreamUrl": "https://calculate-mechanics-pickup-scratch.trycloudflare.com",
+  "publicUrl": "https://lawn-subsidiary-parker-prospect.trycloudflare.com",
+  "upstreamBaseUrl": "https://lawn-subsidiary-parker-prospect.trycloudflare.com",
+  "preferredUpstreamUrl": "https://lawn-subsidiary-parker-prospect.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://calculate-mechanics-pickup-scratch.trycloudflare.com",
+      "url": "https://lawn-subsidiary-parker-prospect.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://ghproxy.vip/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-07-30T09:22:12.704Z",
-  "updatedAt": "2026-07-30T09:22:12.704Z"
+  "generatedAt": "2026-07-30T09:22:18.322Z",
+  "updatedAt": "2026-07-30T09:22:18.322Z"
 }
