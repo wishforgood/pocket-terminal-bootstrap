@@ -7,12 +7,12 @@
   "status": "ready",
   "ready": true,
   "error": "",
-  "publicUrl": "https://king-offices-distributions-eastern.trycloudflare.com",
-  "upstreamBaseUrl": "https://king-offices-distributions-eastern.trycloudflare.com",
-  "preferredUpstreamUrl": "https://king-offices-distributions-eastern.trycloudflare.com",
+  "publicUrl": "https://famous-desire-surveys-psychological.trycloudflare.com",
+  "upstreamBaseUrl": "https://famous-desire-surveys-psychological.trycloudflare.com",
+  "preferredUpstreamUrl": "https://famous-desire-surveys-psychological.trycloudflare.com",
   "upstreamCandidates": [
     {
-      "url": "https://king-offices-distributions-eastern.trycloudflare.com",
+      "url": "https://famous-desire-surveys-psychological.trycloudflare.com",
       "kind": "tunnel",
       "label": "Cloudflare Quick Tunnel"
     }
@@ -23,6 +23,6 @@
   "bootstrapReadUrls": [
     "https://ghfast.top/https://raw.githubusercontent.com/wishforgood/pocket-terminal-bootstrap/refs/heads/main/pocket-terminal/bootstrap.json"
   ],
-  "generatedAt": "2026-07-30T10:14:56.460Z",
-  "updatedAt": "2026-07-30T10:14:56.460Z"
+  "generatedAt": "2026-07-30T10:18:39.536Z",
+  "updatedAt": "2026-07-30T10:18:39.536Z"
 }
